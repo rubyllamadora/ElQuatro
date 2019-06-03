@@ -1,9 +1,6 @@
 <template>
-  <div id="app">
-    <div id="nav">
-      <nav-bar menuItems="menuItems" />
-    </div>
-    <router-view/>
+  <div class="home">
+    This is home
   </div>
 </template>
 
