@@ -1,0 +1,27 @@
+.hero-heading {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 460px;
+}
+
+.hero-heading .title, .hero-heading .subtitle {
+    color: #ffffff;
+    text-shadow: 1px 1px 1px #000000;
+}
+
+.hero-heading .title {
+    font-size: 2.2rem;
+}
+
+.hero-heading .subtitle {
+    font-size: 1.7rem;
+}
+
+.hero-logo {
+    position: absolute;
+    top: 20%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
