@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "nuxt": "^2.8.1",
+    "nuxt": "^3.4.3",
     "nuxt-buefy": "^0.3.13"
   },
   "scripts": {
